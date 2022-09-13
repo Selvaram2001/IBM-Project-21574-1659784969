@@ -1,1 +1,1 @@
-# New tracker application
+# News Tracker Application
